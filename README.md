@@ -60,10 +60,6 @@ DestDir = /path/to/destination/dir
 MaxFiles = 10
 ```
 
-## License
-
-Specify your license here or state that it's available in the LICENSE file.
-
 ## Contributions
 
 Contributions are welcome! Please submit a pull request or open an issue to discuss proposed changes.
